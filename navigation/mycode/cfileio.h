@@ -1,9 +1,4 @@
-/*
- * cfileio.h
- *
- *  Created on: 14-Dec-2012
- *      Author: varun
- */
+
 
 #ifndef CFILEIO_H_
 #define CFILEIO_H_
