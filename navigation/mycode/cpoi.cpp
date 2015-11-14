@@ -1,9 +1,4 @@
-/*
- * cpoi.cpp
- *
- *  Created on: 13-Dec-2012
- *      Author: varun
- */
+
 
 #include <iostream>
 #include <stdlib.h>
